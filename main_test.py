@@ -5,10 +5,6 @@ import datetime
 import requests
 import pywhatkit
 
-# Constants for API keys
-WEATHER_API_KEY = "XXXXXXXXXXXXXXXXXX"
-GOOGLE_API_KEY = "YYYYYYYYYYYYYYYYYY"
-GOOGLE_CX = "ZZZZZZZZZZZZZZ"
 
 # Initialize the text-to-speech engine
 engine = pyttsx3.init()
